@@ -1,3 +1,6 @@
+##management System
+React 강의 수강을 위한 연습용 고객관리시스템입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
