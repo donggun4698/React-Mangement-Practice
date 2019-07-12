@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "user": "tree",
+  "password": "tree",
+  "port": 3306,
+  "database": "management"
+}
